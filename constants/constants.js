@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Bookmark',
     description: "Using React, Next, TailwindCSS & Firebase - from start to finish. The App is called Bookmark and it is a simple browser extension.",
-    image: '/images/Bookmark.png',
+    image: '/images/bookmark.png',
     tags: ['React', 'Next', 'Firebase', 'TailwindCSS'],
     visit: 'https://github.com/yusuf591-cpu/Bookmark',
     source: 'https://bookmark-dusky.vercel.app/',
