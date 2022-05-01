@@ -47,9 +47,9 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2019, text: 'Started my journey', },
+  { year: 2019, text: 'Learned Web development at the educational center PROWEB', },
+  { year: 2020, text: 'Learned React', },
+  { year: 2021, text: 'Frontend Developer RedFox design studio' },
+  { year: 2022, text: 'Frontend Developer West Coast and Choy Media' },
 ];
