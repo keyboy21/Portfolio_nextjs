@@ -1,0 +1,55 @@
+export const projects = [
+  {
+    title: 'Bookmark',
+    description: "Using React, Next, TailwindCSS & Firebase - from start to finish. The App is called Bookmark and it is a simple browser extension.",
+    image: '/images/Bookmark.png',
+    tags: ['React', 'Next', 'Firebase', 'TailwindCSS'],
+    visit: 'https://github.com/yusuf591-cpu/Bookmark',
+    source: 'https://bookmark-dusky.vercel.app/',
+    id: 0,
+  },
+  {
+    title: 'Shantui',
+    description: "Компания СП ООО 'SPETS TEXNIKA TASHKENT' (Спецтехника Ташкент) - имеет 17 летний опыт в сфере поставок спецтехники и оборудования из Китая.",
+    image: '/images/shantui.png',
+    tags: ['React', 'Next', 'Bootstrap', "Python", "Django"],
+    visit: 'https://github.com/yusuf591-cpu',
+    source: 'https://shantuiuzb.com',
+    id: 1,
+  },
+  {
+    title: 'Moviekey',
+    description: "Moviekey is a movie search engine. It is a simple web application that allows users to get information about them.",
+    image: '/images/moviekey.png',
+    tags: ['React', 'Nextjs', "TailwindCSS", "TMDB"],
+    visit: 'https://github.com/yusuf591-cpu/MovieKey',
+    source: 'https://movie-key.vercel.app/',
+    id: 2,
+  },
+  {
+    title: 'Telegram online',
+    description: "It is a simple chat application that allows users to chat with each other. Using NodeJS, Socket.io.",
+    image: '/images/telegramonline.png',
+    tags: ['Node', 'Expressjs', 'Soket.io', "Handlebars", "Momentjs"],
+    visit: 'https://github.com/yusuf591-cpu/Telgram_onlayn',
+    source: 'https://telegramonlayn.herokuapp.com/',
+    id: 3,
+  },
+  {
+    title: 'Manage',
+    description: "Manage makes it simple for software teams to plan day-to-day tasks while keeping the larger team goals in view.",
+    image: '/images/manage.png',
+    tags: ["TailwindCSS"],
+    visit: 'https://github.com/yusuf591-cpu/Manage_tailwind/',
+    source: 'https://yusuf591-cpu.github.io/Manage_tailwind/',
+    id: 4,
+  },
+];
+
+export const TimeLineData = [
+  { year: 2017, text: 'Started my journey', },
+  { year: 2018, text: 'Worked as a freelance developer', },
+  { year: 2019, text: 'Founded JavaScript Mastery', },
+  { year: 2020, text: 'Shared my projects with the world', },
+  { year: 2021, text: 'Started my own platform', },
+];
