@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Bookmark',
     description: "Using React, Next, TailwindCSS & Firebase - from start to finish. The App is called Bookmark and it is a simple browser extension.",
-    image: '/images/bookmark.png',
+    image: '/images/bookmark.webp',
     tags: ['React', 'Next', 'Firebase', 'TailwindCSS'],
     visit: 'https://github.com/yusuf591-cpu/Bookmark',
     source: 'https://bookmark-dusky.vercel.app/',
@@ -11,7 +11,7 @@ export const projects = [
   {
     title: 'Shantui',
     description: "Компания СП ООО 'SPETS TEXNIKA TASHKENT' (Спецтехника Ташкент) - имеет 17 летний опыт в сфере поставок спецтехники и оборудования из Китая.",
-    image: '/images/shantui.png',
+    image: '/images/shantui.webp',
     tags: ['React', 'Next', 'Bootstrap', "Python", "Django"],
     visit: 'https://github.com/yusuf591-cpu',
     source: 'https://shantuiuzb.com',
@@ -20,7 +20,7 @@ export const projects = [
   {
     title: 'Moviekey',
     description: "Moviekey is a movie search engine. It is a simple web application that allows users to get information about them.",
-    image: '/images/moviekey.png',
+    image: '/images/moviekey.webp',
     tags: ['React', 'Nextjs', "TailwindCSS", "TMDB"],
     visit: 'https://github.com/yusuf591-cpu/MovieKey',
     source: 'https://movie-key.vercel.app/',
@@ -29,7 +29,7 @@ export const projects = [
   {
     title: 'Telegram online',
     description: "It is a simple chat application that allows users to chat with each other. Using NodeJS, Socket.io.",
-    image: '/images/telegramonline.png',
+    image: '/images/telegramonline.webp',
     tags: ['Node', 'Expressjs', 'Soket.io', "Handlebars", "Momentjs"],
     visit: 'https://github.com/yusuf591-cpu/Telgram_onlayn',
     source: 'https://telegramonlayn.herokuapp.com/',
@@ -38,7 +38,7 @@ export const projects = [
   {
     title: 'Manage',
     description: "Manage makes it simple for software teams to plan day-to-day tasks while keeping the larger team goals in view.",
-    image: '/images/manage.png',
+    image: '/images/manage.webp',
     tags: ["TailwindCSS"],
     visit: 'https://github.com/yusuf591-cpu/Manage_tailwind/',
     source: 'https://yusuf591-cpu.github.io/Manage_tailwind/',
