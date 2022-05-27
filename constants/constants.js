@@ -18,13 +18,22 @@ export const projects = [
     id: 1,
   },
   {
+    title: 'Sgtshop',
+    description: "E-commerce site to buying tecnical equipment. The site is built with React, Redux, Bootstrap, Django.",
+    image: '/images/Sgtshop.webp',
+    tags: ["Reactjs", "Redux", "Bootstrap"],
+    visit: 'https://github.com/yusuf591-cpu',
+    source: 'https://www.sgtshop.uz/',
+    id: 2,
+  },
+  {
     title: 'Moviekey',
     description: "Moviekey is a movie search engine. It is a simple web application that allows users to get information about them.",
     image: '/images/moviekey.webp',
     tags: ['React', 'Nextjs', "TailwindCSS", "TMDB"],
     visit: 'https://github.com/yusuf591-cpu/MovieKey',
     source: 'https://movie-key.vercel.app/',
-    id: 2,
+    id: 3,
   },
   {
     title: 'Telegram online',
@@ -33,7 +42,7 @@ export const projects = [
     tags: ['Node', 'Expressjs', 'Soket.io', "Handlebars", "Momentjs"],
     visit: 'https://github.com/yusuf591-cpu/Telgram_onlayn',
     source: 'https://telegramonlayn.herokuapp.com/',
-    id: 3,
+    id: 4,
   },
   {
     title: 'Manage',
@@ -42,7 +51,7 @@ export const projects = [
     tags: ["TailwindCSS"],
     visit: 'https://github.com/yusuf591-cpu/Manage_tailwind/',
     source: 'https://yusuf591-cpu.github.io/Manage_tailwind/',
-    id: 4,
+    id: 5,
   },
 ];
 
