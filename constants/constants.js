@@ -40,7 +40,7 @@ export const projects = [
     description: "It is a simple chat application that allows users to chat with each other. Using NodeJS, Socket.io.",
     image: '/images/telegramonline.webp',
     tags: ['Node', 'Expressjs', 'Soket.io', "Handlebars", "Momentjs"],
-    source: 'https://telegramonlayn.herokuapp.com/',
+    visit: 'https://github.com/yusuf591-cpu/Telgram_onlayn',
     id: 4,
   },
   {
