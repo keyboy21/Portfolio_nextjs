@@ -68,6 +68,6 @@ export const TimeLineData = [
   { year: 2019, text: 'Started my journey', },
   { year: 2019, text: 'Learned Web development at the educational center PROWEB', },
   { year: 2020, text: 'Learned React', },
-  { year: 2021, text: 'Frontend Developer RedFox design studio' },
+  { year: 2021, text: 'Frontend Developer RedFox Agency' },
   { year: 2022, text: 'Frontend Developer West Coast and Choy Media' },
 ];
