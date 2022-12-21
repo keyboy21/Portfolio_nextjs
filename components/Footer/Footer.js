@@ -24,7 +24,7 @@ const Footer = () => {
           <Slogan>Innovating one project at a time</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com/yusuf591-cpu" target={"_blank"}>
+          <SocialIcons href="https://github.com/yusuf-saydullayev" target={"_blank"}>
             <AiFillGithub size="3rem" />
           </SocialIcons>
           <SocialIcons href="https://twitter.com/YusufWeb_Dev" target={"_blank"}>
