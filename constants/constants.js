@@ -41,7 +41,7 @@ export const projects = [
     image: '/images/manage.webp',
     tags: ["TailwindCSS"],
     visit: 'https://github.com/yusuf591-cpu/Manage_tailwind/',
-    source: 'https://yusuf591-cpu.github.io/Manage_tailwind/',
+    source: 'https://yusuf-saydullayev.github.io/Manage_tailwind/',
     id: 4,
   },
   {
