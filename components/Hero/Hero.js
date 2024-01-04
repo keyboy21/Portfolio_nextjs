@@ -10,7 +10,7 @@ const Hero = () => (
           I&apos;m Yusufboy Saydullayev <br />
         </SectionTitle>
         <SectionText>
-          I am a full stack web developer and build websites using HTML, CSS, Javascript, ReactJs.
+          I am a full stack web developer and build websites using HTML, CSS, Javascript, Typescript, React.js, Next.js, Tailwindcss.
         </SectionText>
         <a href="https://github.com/yusuf-saydullayev" target={"_blank"} rel="noreferrer">
           <Button>
