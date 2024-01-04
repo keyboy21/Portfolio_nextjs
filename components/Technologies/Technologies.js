@@ -1,5 +1,4 @@
-import React from 'react';
-import { DiFirebase, DiReact, DiZend } from 'react-icons/di';
+import { DiFirebase, DiZend } from 'react-icons/di';
 import { FaReact } from 'react-icons/fa';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
@@ -35,7 +34,7 @@ const Technologies = () =>  (
         <ListTitle>Back-End</ListTitle>
         <ListParagraph>
           Experience with <br />
-          Node and Express <br/>
+          Node and Express , Nestjs <br/>
           Prisma, Sql and NoSql databases <br/>
           Restful API <br/>
         </ListParagraph>
@@ -49,7 +48,7 @@ const Technologies = () =>  (
         <ListTitle>UI/UX</ListTitle>
         <ListParagraph>
           Experience with <br />
-          tools like Figma and Adobe Photoshop
+          tools like Figma
         </ListParagraph>
       </ListContainer>
     </ListItem>

@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 import { BlogCard, CardInfo, ExternalLinks, GridContainer, HeaderThree, Hr, Tag, TagList, TitleContent, UtilityList, Img } from './ProjectsStyles';
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
@@ -9,9 +9,9 @@ const Projects = () => (
   <SectionDivider />
   <SectionTitle main>Projects</SectionTitle>
   <GridContainer>
-    {projects.map((p, i) => {
+    {projects.map((p) => {
       return (
-        <BlogCard key={i}>
+        <BlogCard key={p.id}>
         <Img src={p.image} />
           <TitleContent>
             <HeaderThree title>{p.title}</HeaderThree>
@@ -21,12 +21,12 @@ const Projects = () => (
           <div>
             <TitleContent>Stack</TitleContent>
             <TagList>
-              {p.tags.map((t, i) => {
-                return <Tag key={i}>{t}</Tag>;
+              {p.tags.map((t) => {
+                return <Tag key={t}>{t}</Tag>;
               })}
             </TagList>
           </div>
-          <UtilityList>
+          <UtilityList >
             <ExternalLinks href={p.visit} target="_blank">Code</ExternalLinks>
             <ExternalLinks href={p.source} target="_blank">Source</ExternalLinks>
           </UtilityList>
