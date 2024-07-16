@@ -64,7 +64,7 @@ export const projects = [
     description: "Eramed website,  using Nextjs, Strapi",
     image: '/images/eramed.png',
     tags: ['React', 'Next.js', "Typescript", "TailwindCSS", "Radix-ui", 'Strapi'],
-    source: 'https://eramed-site-dev.feedback.uz/',
+    source: 'https://eramed.uz/',
     id: 7,
   },
   {
